@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Ahsen.
-- 👀 I’m interested in web-development.
-- 🌱 I’m currently learning Html/Css/JavaScript, React, Node.js, Express, MongoDB, MySQL, Firebase and other web development technonogies.
+- 👋 Hi, I’m Muhammad Ahsen.
+- 👀 Passionate about backend development.
+- 🌱 I’m currently learning Node.js, Express, MongoDB, MySQL, Firebase, and other development technologies.
 - 💞️ I’m looking to collaborate on web projects.
-- 📫 How to reach me muhammadahsen987@gmail.com
+- 📫 How to reach me: muhammadahsen987@gmail.com
 - 😄 Pronouns: Ahsen
 - ⚡ Fun fact: Love reading books!
 <!---
